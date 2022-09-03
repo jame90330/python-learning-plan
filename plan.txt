@@ -38,4 +38,4 @@ search Algorithm
 Week 2: 
 Day -1: Git and github
 
-Also learn some other
+Also learn some other.
