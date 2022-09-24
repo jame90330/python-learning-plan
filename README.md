@@ -1,1 +1,1 @@
-python learning plan.
+Python learning plan.
